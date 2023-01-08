@@ -1,0 +1,4 @@
+Task 21-26 Task Manager
+
+Project in Python that handles student tasks. Logging in users and admin, registering new users and adding new tasks, checks overdue tasks and editing
+details of tasks, viewing all tasks or personalized tasks, displaying statistics and generating reports and also working with external files.
