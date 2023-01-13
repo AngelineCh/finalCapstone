@@ -1,4 +1,11 @@
-Task 32 - Inventory
-Project in OOP Python that handles the stock of a shoes company. It gives detailed information on products in stock.
-Also it allows the user to find lowest quantity in stock and restock product, find the highest quantity, search product by code, find the value for each item
-and accept new product by user.
+Task 32 
+
+Inventory
+
+Project in OOP Python that handles the stock of a shoes company. 
+It gives detailed information on products in stock.
+Allows the user to find lowest quantity in stock and restock product, find the highest quantity and put droduct on sale, 
+search product by code number, find the value for each item and accept new product by user.
+
+Purpose of project: To allow the company to have a detailed database of the stock,the total value of their stock and to be able
+to be warned of low stock and update it.
