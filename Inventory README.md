@@ -7,8 +7,8 @@ Inventory Task
 | ---------------------------| 
 | <a href="#Project">`Description and purpose`</a> | 
 | <a href="#Install">`Installation guide`</a>      |
-| <a href="#Use">`Usage instructions`              |
-| <a href="#Credits">`Credits`                     |
+| <a href="#Use">`Usage instructions`</a>          |
+| <a href="#Credits">`Credits`</a>                 |
 
 
 
@@ -21,8 +21,6 @@ search product by code number, find the value for each item and accept new produ
 
 Purpose of project: To allow the company to have a detailed database of the stock,the total value of their stock and to be able
 to be warned of low stock and update it.
-
-
 
 
 
