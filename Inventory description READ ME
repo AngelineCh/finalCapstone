@@ -1,4 +1,4 @@
-Task 32 
+ask 32 
 
 Inventory
 
@@ -16,7 +16,28 @@ In your chosen directory you should find a copy of the project.
 
 How to use the project:
 
-Program displays main menu as follows
+Program displays main menu as follows:
+
+
+<img src="https://user-images.githubusercontent.com/121129408/212882598-5e080275-006d-4b61-8f1c-8edb83f59133.png">
+
+
+We can choose an option from the menu.
+Ex. if choice is ap 'add product' it gives us the following:
+
+
+
+<img src="https://user-images.githubusercontent.com/121129408/212883183-6c41fffa-48d9-43df-be0b-b4f67f1f02a0.png">
+
+So the user can add a new product with the country of origin, product code etc.
+
+When choice is 'view low' it gives us the following screen:
+
+<img src="https://user-images.githubusercontent.com/121129408/212883569-e5f2befe-6e21-463d-a3cd-9adba0bb480b.png">
+
+
+And then we have the option to update the stock.
+Similarly the rest of the menu options are displayed.
 
 
 
