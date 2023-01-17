@@ -1,20 +1,45 @@
 Task 32 
+Inventory Task
 
-Inventory
 
 
-Project in OOP Python that handles the stock of a shoes company. 
-It gives detailed information on products in stock.
+| Table of contents          | 
+| ---------------------------| 
+| <a href="#Project">`Description and purpose`</a> | 
+| <a href="#Install">`Installation guide`</a>      |
+| <a href="#Use">`Usage instructions`              |
+| <a href="#Credits">`Credits`                     |
+
+
+
+
+<h1 id="Project"></h1> Project in OOP Python that handles the stock of a shoes company. 
+
+Gives detailed information on products in stock.
 Allows the user to find lowest quantity in stock and restock product, find the highest quantity and put droduct on sale, 
 search product by code number, find the value for each item and accept new product by user.
 
 Purpose of project: To allow the company to have a detailed database of the stock,the total value of their stock and to be able
 to be warned of low stock and update it.
 
+
+
+
+
+
+
+<h2 id="Install"></h2>
 Instructions oh how to install the repository locally: 
 Open your command prompt and type: git clone https://github.com/AngelineCh/finalCapstone.git
 In your chosen directory you should find a copy of the project.
 
+
+
+
+
+
+
+<h3 id="Use"></h3>
 How to use the project:
 
 Program displays main menu as follows:
@@ -41,5 +66,5 @@ And then we have the option to update the stock.
 Similarly the rest of the menu options are displayed.
 
 
-
+<h4 id="Credits"></h4>
 Project was created as a capstone project for HyperionDev software engineering course.
